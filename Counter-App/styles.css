@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 30px;
+    
+}
+
+button,
+select{
+    font-size: 100px;
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+main{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    height:90vh;
+
+}
+h1{
+    font-size: 200px;
+}
